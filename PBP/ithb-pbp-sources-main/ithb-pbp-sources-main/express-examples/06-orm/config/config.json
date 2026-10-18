@@ -1,0 +1,13 @@
+{
+  "development": {
+    "storage": "db.sqlite",
+    "dialect": "sqlite"
+  },
+  "mysql": {
+    "dialect": "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": null,
+    "database": "database_production"
+  }
+}

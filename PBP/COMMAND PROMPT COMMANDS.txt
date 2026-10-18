@@ -1,0 +1,10 @@
+COMMAND PROMPT COMMANDS: 
+- Cara Login Postgres: psql -U postgres
+- Bikin database: CREATE DATABASE mydb;
+- Lihat daftar database: \l;
+- Masuk ke database: \c mydb;
+- Cek table apakah sudah dibuat: \dt
+- Keluar dari postgres: \q atau Ctrl+D
+
+TYPESCRIPT:
+- Migrate migration: npx sequelize-cli db:migrate
